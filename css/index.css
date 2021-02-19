@@ -134,3 +134,6 @@ button:hover{
 .artist img{
     width:100%;
 }
+@media all and (max-width:800px) {
+
+}
